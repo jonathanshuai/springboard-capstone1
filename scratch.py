@@ -12,9 +12,6 @@ import plotly
 import plotly.plotly as py
 import plotly.figure_factory as ff
 
-plotly.tools.set_credentials_file(username='jshuai', api_key='cYnSXW3VDie6Eb45YP5t')
-
-
 # First let's read in our clean data
 provisions_file = './data/raw/provisions.csv' # We'll need this
 lat_long_file = './data/cleaned/lat_long.csv'
