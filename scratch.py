@@ -30,6 +30,8 @@ from statsmodels.tsa.stattools import adfuller
 
 from statsmodels.tsa.stattools import acf, pacf
 from statsmodels.tsa.seasonal import seasonal_decompose
+from pandas.plotting import autocorrelation_plot
+
 
 feature_file = './data/cleaned/feature.csv'
 annual_file = './data/cleaned/annual_gun.csv'
