@@ -1,134 +1,134 @@
-category,provision
-Licensing,dealer
-Licensing,dealerh
-Recordkeeping,recordsdealer
-Recordkeeping,recordsdealerh
-Recordkeeping,recordsall
-Recordkeeping,recordsallh
-Reporting,reportdealer
-Reporting,reportdealerh
-Reporting,reportall
-Reporting,reportallh
-Reporting,purge
-Location,residential
-Reporting,theft
-Security,security
-Inspections,inspection
-Liability,liability
-Junk guns,junkgun
-Waiting period,waiting
-Waiting period,waitingh
-Permitting,permit
-Permitting,permith
-Permitting,permitlaw
-Fingerprinting,fingerprint
-Safety training,training
-Registration,registration
-Registration,registrationh
-Registration,defactoreg
-Registration,defactoregh
-Age restrictions,age21handgunsale
-Age restrictions,age18longgunsale
-Age restrictions,age21longgunsaled
-Age restrictions,age21longgunsale
-Reporting,loststolen
-Bulk purchase limit,onepermonth
-Felony,felony
-Violent Misdemeanor,violent
-Violent Misdemeanor,violenth
-Violent Misdemeanor,violentpartial
-Mental Health,invcommitment
-Mental Health,invoutpatient
-Mental Health,danger
-Drugs,drugmisdemeanor
-Alcohol,alctreatment
-Alcohol,alcoholism
-Background checks,universal
-Background checks,universalh
-Gun shows,gunshow
-Gun shows,gunshowh
-Background checks,universalpermit
-Background checks,universalpermith
-Background checks,backgroundpurge
-Background checks time limit,threedaylimit
-Background checks,mentalhealth
-Background checks,statechecks
-Background checks,statechecksh
-Licensing,ammlicense
-Recordkeeping,ammrecords
-Permitting,ammpermit
-Prohibitors,ammrestrict
-Age restrictions,amm18
-Age restrictions,amm21h
-Background checks,ammbackground
-Age restrictions,age21handgunpossess
-Age restrictions,age18longgunpossess
-Age restrictions,age21longgunpossess
-Gun violence restraining orders,gvro
-Gun violence restraining orders,gvrolawenforcement
-Campus carry,college
-Campus carry,collegeconcealed
-School zones,elementary
-Open carry,opencarryh
-Open carry,opencarryl
-Open carry,opencarrypermith
-Open carry,opencarrypermitl
-Permitting,permitconcealed
-Permitting,mayissue
-Permitting,showing
-Permitting,ccrevoke
-Background checks,ccbackground
-Background checks,ccbackgroundnics
-Background checks,ccrenewbackground
-Assault weapons ban,assault
-Assault weapons ban,onefeature
-Assault weapons ban,assaultlist
-Assault weapons ban,assaultregister
-Assault weapons ban,assaulttransfer
-Large capacity magazine ban,magazine
-Large capacity magazine ban,tenroundlimit
-Large capacity magazine ban,magazinepreowned
-Safety locks,lockd
-Safety locks,lockp
-Safety locks,lockstandards
-Storage,locked
-Storage,capliability
-Storage,capaccess
-Storage,capuses
-Storage,capunloaded
-Storage,cap18
-Storage,cap16
-Storage,cap14
-Gun trafficking,traffickingbackground
-Gun trafficking,traffickingprohibited
-Gun trafficking,traffickingprohibitedh
-Straw purchase,strawpurchase
-Straw purchase,strawpurchaseh
-Crime gun identification,microstamp
-Personalized gun technology,personalized
-Stand your ground,nosyg
-Preemption,preemption
-Preemption,preemptionnarrow
-Preemption,preemptionbroad
-Immunity,immunity
-Misdemeanor crimes,mcdv
-Misdemeanor crimes,mcdvdating
-Misdemeanor crimes,mcdvsurrender
-Misdemeanor crimes,mcdvsurrendernoconditions
-Misdemeanor crimes,mcdvsurrenderdating
-Misdemeanor crimes,mcdvremovalallowed
-Misdemeanor crimes,mcdvremovalrequired
-Firearm removal,incidentremoval
-Firearm removal,incidentall
-Restraining order,dvro
-Restraining order,dvrodating
-Restraining order,exparte
-Restraining order,expartedating
-Restraining order,dvrosurrender
-Restraining order,dvrosurrendernoconditions
-Restraining order,dvrosurrenderdating
-Restraining order,expartesurrender
-Restraining order,expartesurrendernoconditions
-Restraining order,expartesurrenderdating
-Restraining order,dvroremoval
-Stalking,stalking
+subcategory,provision,category
+Licensing,dealer,Dealer regulations
+Licensing,dealerh,Dealer regulations
+Recordkeeping,recordsdealer,Dealer regulations
+Recordkeeping,recordsdealerh,Dealer regulations
+Recordkeeping,recordsall,Dealer regulations
+Recordkeeping,recordsallh,Dealer regulations
+Reporting,reportdealer,Dealer regulations
+Reporting,reportdealerh,Dealer regulations
+Reporting,reportall,Dealer regulations
+Reporting,reportallh,Dealer regulations
+Reporting,purge,Dealer regulations
+Other,residential,Dealer regulations
+Reporting,theft,Dealer regulations
+Other,security,Dealer regulations
+Other,inspection,Dealer regulations
+Liability,liability,Dealer regulations
+Other,junkgun,Dealer regulations
+Waiting period,waiting,Buyer regulations
+Waiting period,waitingh,Buyer regulations
+Permitting,permit,Buyer regulations
+Permitting,permith,Buyer regulations
+Permitting,permitlaw,Buyer regulations
+Crime gun identification,fingerprint,Buyer regulations
+Other,training,Buyer regulations
+Registration,registration,Buyer regulations
+Registration,registrationh,Buyer regulations
+Registration,defactoreg,Buyer regulations
+Registration,defactoregh,Buyer regulations
+Age restrictions,age21handgunsale,Buyer regulations
+Age restrictions,age18longgunsale,Buyer regulations
+Age restrictions,age21longgunsaled,Buyer regulations
+Age restrictions,age21longgunsale,Buyer regulations
+Reporting,loststolen,Buyer regulations
+Other,onepermonth,Buyer regulations
+Violent Misdemeanor or Felony,felony,Prohibitions for high-risk gun possession
+Violent Misdemeanor or Felony,violent,Prohibitions for high-risk gun possession
+Violent Misdemeanor or Felony,violenth,Prohibitions for high-risk gun possession
+Violent Misdemeanor or Felony,violentpartial,Prohibitions for high-risk gun possession
+Mental Health,invcommitment,Prohibitions for high-risk gun possession
+Mental Health,invoutpatient,Prohibitions for high-risk gun possession
+Mental Health,danger,Prohibitions for high-risk gun possession
+Alcohol and Drugs,drugmisdemeanor,Prohibitions for high-risk gun possession
+Alcohol and Drugs,alctreatment,Prohibitions for high-risk gun possession
+Alcohol and Drugs,alcoholism,Prohibitions for high-risk gun possession
+Background checks,universal,Background checks
+Background checks,universalh,Background checks
+Gun shows,gunshow,Background checks
+Gun shows,gunshowh,Background checks
+Background checks,universalpermit,Background checks
+Background checks,universalpermith,Background checks
+Background checks,backgroundpurge,Background checks
+Background checks,threedaylimit,Background checks
+Background checks,mentalhealth,Background checks
+Background checks,statechecks,Background checks
+Background checks,statechecksh,Background checks
+Licensing,ammlicense,Ammunition regulations
+Recordkeeping,ammrecords,Ammunition regulations
+Permitting,ammpermit,Ammunition regulations
+Other,ammrestrict,Ammunition regulations
+Age restrictions,amm18,Ammunition regulations
+Age restrictions,amm21h,Ammunition regulations
+Background checks,ammbackground,Ammunition regulations
+Age restrictions,age21handgunpossess,Possession regulations
+Age restrictions,age18longgunpossess,Possession regulations
+Age restrictions,age21longgunpossess,Possession regulations
+Gun violence restraining orders,gvro,Possession regulations
+Gun violence restraining orders,gvrolawenforcement,Possession regulations
+School zones,college,Possession regulations
+School zones,collegeconcealed,Possession regulations
+School zones,elementary,Possession regulations
+Open carry,opencarryh,Possession regulations
+Open carry,opencarryl,Possession regulations
+Open carry,opencarrypermith,Possession regulations
+Open carry,opencarrypermitl,Possession regulations
+Permitting,permitconcealed,Concealed carry
+Permitting,mayissue,Concealed carry
+Permitting,showing,Concealed carry
+Permitting,ccrevoke,Concealed carry
+Background checks,ccbackground,Concealed carry
+Background checks,ccbackgroundnics,Concealed carry
+Background checks,ccrenewbackground,Concealed carry
+Assault weapons ban,assault,Assault weapons and large-capacity magazines
+Assault weapons ban,onefeature,Assault weapons and large-capacity magazines
+Assault weapons ban,assaultlist,Assault weapons and large-capacity magazines
+Assault weapons ban,assaultregister,Assault weapons and large-capacity magazines
+Assault weapons ban,assaulttransfer,Assault weapons and large-capacity magazines
+Large capacity magazine ban,magazine,Assault weapons and large-capacity magazines
+Large capacity magazine ban,tenroundlimit,Assault weapons and large-capacity magazines
+Large capacity magazine ban,magazinepreowned,Assault weapons and large-capacity magazines
+Safety locks,lockd,Child access prevention
+Safety locks,lockp,Child access prevention
+Safety locks,lockstandards,Child access prevention
+Storage,locked,Child access prevention
+Storage,capliability,Child access prevention
+Storage,capaccess,Child access prevention
+Storage,capuses,Child access prevention
+Storage,capunloaded,Child access prevention
+Storage,cap18,Child access prevention
+Storage,cap16,Child access prevention
+Storage,cap14,Child access prevention
+Gun trafficking,traffickingbackground,Gun trafficking
+Gun trafficking,traffickingprohibited,Gun trafficking
+Gun trafficking,traffickingprohibitedh,Gun trafficking
+Straw purchase,strawpurchase,Gun trafficking
+Straw purchase,strawpurchaseh,Gun trafficking
+Crime gun identification,microstamp,Gun trafficking
+Other,personalized,Gun trafficking
+Stand your ground,nosyg,Stand your ground
+Preemption,preemption,Allow local government to regulate
+Preemption,preemptionnarrow,Allow local government to regulate
+Preemption,preemptionbroad,Allow local government to regulate
+Liability,immunity,Dealer regulations
+Misdemeanor crimes,mcdv,Domestic violence
+Misdemeanor crimes,mcdvdating,Domestic violence
+Misdemeanor crimes,mcdvsurrender,Domestic violence
+Misdemeanor crimes,mcdvsurrendernoconditions,Domestic violence
+Misdemeanor crimes,mcdvsurrenderdating,Domestic violence
+Misdemeanor crimes,mcdvremovalallowed,Domestic violence
+Misdemeanor crimes,mcdvremovalrequired,Domestic violence
+Firearm removal,incidentremoval,Domestic violence
+Firearm removal,incidentall,Domestic violence
+Restraining order,dvro,Domestic violence
+Restraining order,dvrodating,Domestic violence
+Restraining order,exparte,Domestic violence
+Restraining order,expartedating,Domestic violence
+Restraining order,dvrosurrender,Domestic violence
+Restraining order,dvrosurrendernoconditions,Domestic violence
+Restraining order,dvrosurrenderdating,Domestic violence
+Restraining order,expartesurrender,Domestic violence
+Restraining order,expartesurrendernoconditions,Domestic violence
+Restraining order,expartesurrenderdating,Domestic violence
+Restraining order,dvroremoval,Domestic violence
+Other,stalking,Domestic violence
