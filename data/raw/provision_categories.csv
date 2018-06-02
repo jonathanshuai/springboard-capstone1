@@ -73,21 +73,21 @@ Open carry,opencarryh,Possession regulations
 Open carry,opencarryl,Possession regulations
 Open carry,opencarrypermith,Possession regulations
 Open carry,opencarrypermitl,Possession regulations
-Permitting,permitconcealed,Concealed carry
-Permitting,mayissue,Concealed carry
-Permitting,showing,Concealed carry
-Permitting,ccrevoke,Concealed carry
-Background checks,ccbackground,Concealed carry
-Background checks,ccbackgroundnics,Concealed carry
-Background checks,ccrenewbackground,Concealed carry
-Assault weapons ban,assault,Assault weapons and large-capacity magazines
-Assault weapons ban,onefeature,Assault weapons and large-capacity magazines
-Assault weapons ban,assaultlist,Assault weapons and large-capacity magazines
-Assault weapons ban,assaultregister,Assault weapons and large-capacity magazines
-Assault weapons ban,assaulttransfer,Assault weapons and large-capacity magazines
-Large capacity magazine ban,magazine,Assault weapons and large-capacity magazines
-Large capacity magazine ban,tenroundlimit,Assault weapons and large-capacity magazines
-Large capacity magazine ban,magazinepreowned,Assault weapons and large-capacity magazines
+Permitting,permitconcealed,Restrict concealed carry
+Permitting,mayissue,Restrict concealed carry
+Permitting,showing,Restrict concealed carry
+Permitting,ccrevoke,Restrict concealed carry
+Background checks,ccbackground,Restrict concealed carry
+Background checks,ccbackgroundnics,Restrict concealed carry
+Background checks,ccrenewbackground,Restrict concealed carry
+Assault weapons ban,assault,Regulate assault weapons
+Assault weapons ban,onefeature,Regulate assault weapons
+Assault weapons ban,assaultlist,Regulate assault weapons
+Assault weapons ban,assaultregister,Regulate assault weapons
+Assault weapons ban,assaulttransfer,Regulate assault weapons
+Large capacity magazine ban,magazine,Regulate assault weapons
+Large capacity magazine ban,tenroundlimit,Regulate assault weapons
+Large capacity magazine ban,magazinepreowned,Regulate assault weapons
 Safety locks,lockd,Child access prevention
 Safety locks,lockp,Child access prevention
 Safety locks,lockstandards,Child access prevention
@@ -111,24 +111,24 @@ Preemption,preemption,Allow local government to regulate
 Preemption,preemptionnarrow,Allow local government to regulate
 Preemption,preemptionbroad,Allow local government to regulate
 Liability,immunity,Dealer regulations
-Misdemeanor crimes,mcdv,Domestic violence
-Misdemeanor crimes,mcdvdating,Domestic violence
-Misdemeanor crimes,mcdvsurrender,Domestic violence
-Misdemeanor crimes,mcdvsurrendernoconditions,Domestic violence
-Misdemeanor crimes,mcdvsurrenderdating,Domestic violence
-Misdemeanor crimes,mcdvremovalallowed,Domestic violence
-Misdemeanor crimes,mcdvremovalrequired,Domestic violence
-Firearm removal,incidentremoval,Domestic violence
-Firearm removal,incidentall,Domestic violence
-Restraining order,dvro,Domestic violence
-Restraining order,dvrodating,Domestic violence
-Restraining order,exparte,Domestic violence
-Restraining order,expartedating,Domestic violence
-Restraining order,dvrosurrender,Domestic violence
-Restraining order,dvrosurrendernoconditions,Domestic violence
-Restraining order,dvrosurrenderdating,Domestic violence
-Restraining order,expartesurrender,Domestic violence
-Restraining order,expartesurrendernoconditions,Domestic violence
-Restraining order,expartesurrenderdating,Domestic violence
-Restraining order,dvroremoval,Domestic violence
-Other,stalking,Domestic violence
+Misdemeanor crimes,mcdv,Restrictions for domestic violence offenders
+Misdemeanor crimes,mcdvdating,Restrictions for domestic violence offenders
+Misdemeanor crimes,mcdvsurrender,Restrictions for domestic violence offenders
+Misdemeanor crimes,mcdvsurrendernoconditions,Restrictions for domestic violence offenders
+Misdemeanor crimes,mcdvsurrenderdating,Restrictions for domestic violence offenders
+Misdemeanor crimes,mcdvremovalallowed,Restrictions for domestic violence offenders
+Misdemeanor crimes,mcdvremovalrequired,Restrictions for domestic violence offenders
+Firearm removal,incidentremoval,Restrictions for domestic violence offenders
+Firearm removal,incidentall,Restrictions for domestic violence offenders
+Restraining order,dvro,Restrictions for domestic violence offenders
+Restraining order,dvrodating,Restrictions for domestic violence offenders
+Restraining order,exparte,Restrictions for domestic violence offenders
+Restraining order,expartedating,Restrictions for domestic violence offenders
+Restraining order,dvrosurrender,Restrictions for domestic violence offenders
+Restraining order,dvrosurrendernoconditions,Restrictions for domestic violence offenders
+Restraining order,dvrosurrenderdating,Restrictions for domestic violence offenders
+Restraining order,expartesurrender,Restrictions for domestic violence offenders
+Restraining order,expartesurrendernoconditions,Restrictions for domestic violence offenders
+Restraining order,expartesurrenderdating,Restrictions for domestic violence offenders
+Restraining order,dvroremoval,Restrictions for domestic violence offenders
+Other,stalking,Restrictions for domestic violence offenders
