@@ -62,9 +62,9 @@ Here are the notebooks in the project:
 ## Documents and Reports
 Here are the documents to summarize key points and results from the notebooks:
 
-1. cleaning-data.pdf - Explanation of data used and the choices made in consolidating the data into a single structure.
-2. exploratory-data-analysis.pdf - Summary of the visualizations and statistical tests used in the exploratory data analysis.
-3. milestone-report.pdf - Mid-project milestone report.
-4. predictive-modeling.pdf - Summary of the results of the predictive modeling.
-5. slideshow.pdf - A slideshow for general audiences summarizing the key points of the project.
-6. final-report.pdf - All of the reports aggregated into a single document.
+1. [cleaning-data.pdf](/documents/cleaning-data.pdf) - Explanation of data used and the choices made in consolidating the data into a single structure.
+2. [exploratory-data-analysis.pdf](/documents/exploratory-data-analysis.pdf) - Summary of the visualizations and statistical tests used in the exploratory data analysis.
+3. [milestone-report.pdf](/documents/milestone-report.pdf) - Mid-project milestone report.
+4. [predictive-modeling.pdf](/documents/predictive-modeling.pdf) - Summary of the results of the predictive modeling.
+5. [slideshow.pdf](/documents/slideshow.pdf) - A slideshow for general audiences summarizing the key points of the project.
+6. [final-report.pdf](/documents/final-report.pdf) - All of the reports aggregated into a single document.
